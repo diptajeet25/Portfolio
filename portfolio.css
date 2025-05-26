@@ -1,0 +1,30 @@
+#main{
+    display: flex;
+    flex-direction: row; 
+}
+h2
+{
+   color:#885053;
+}
+body{
+    background-color: #CCC9E7;
+    font-family: Arial, sans-serif;
+}
+.icon
+{
+    margin-left: 5px;
+}
+#image
+{
+    margin-right: 20px;
+    height: 170px;
+    margin-top: 18px;
+}
+h3
+{
+   color:#1481BA;
+}
+.one
+{
+    color: #5B1865;
+}
